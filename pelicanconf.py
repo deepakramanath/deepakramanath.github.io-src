@@ -10,7 +10,7 @@ PATH = 'content'
 TIMEZONE = 'Australia/Sydney'
 DEFAULT_LANG = u'en'
 BROWSER_COLOR = '#333333'
-PYGMENTS_STYLE = 'monokai'
+#PYGMENTS_STYLE = 'monokai'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -26,7 +26,7 @@ SOCIAL = (('You can add links in your config file', '#'),
 DEFAULT_PAGINATION = 10
 
 # Blogroll
-LINKS = (('Python | Linux', '#'),)
+LINKS = (('Python | Linux | Ansible', '#'),)
 
 # Social widget
 SOCIAL = (('linkedin', 'https://au.linkedin.com/in/deepakramanath'),
