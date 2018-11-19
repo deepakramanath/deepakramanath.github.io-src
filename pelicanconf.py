@@ -5,6 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Deepak Ramanath'
 SITENAME = u'Deepak Ramanath'
 SITEURL = ''
+SITELOGO = 'https://secure.gravatar.com/avatar/e8607f9c9807350417679eff58ad56c4'
 COPYRIGHT_YEAR = 2018
 PATH = 'content'
 TIMEZONE = 'Australia/Sydney'

@@ -1,3 +1,4 @@
+:title: Prime Number Generation
 :date: 2015-11-21 11:00:00
 :modified: 2015-11-21 11:00:00
 :tags: python, numpy, prime-numbers, prime-factors
