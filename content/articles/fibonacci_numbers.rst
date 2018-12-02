@@ -1,3 +1,7 @@
+Python Fibonacci Numbers
+########################
+
+
 :title: Fibonacci Numbers Using Python
 :date: 2015-11-03 22:00:00
 :modified: 2015-11-03 22:00:00
@@ -6,9 +10,6 @@
 :slug: Python Fibonacci Numbers
 :authors: Deepak Ramanath
 :summary: Here, we obtain a **Fibonacci Sequence** using **Python** and subsequently look at the **Golden Ratio**. Click **Continue reading** to know more.
-
-Python Fibonacci Numbers
-########################
 
 Introduction
 ============

@@ -1,3 +1,6 @@
+API call to OpenWeather and Parsing JSON using Python
+#####################################################
+
 :title: API Calls to Open Weather Using Python
 :date: 2015-12-08 14:00:00
 :modified: 2015-12-08 14:00:00
@@ -7,10 +10,8 @@
 :authors: Deepak Ramanath
 :summary: Here **OpenWeather** API is explored to access weather information and parsing the *JSON* data using **Python**. Click **Continue reading** to know more and view the Python.
 
-API call to OpenWeather and Parsing JSON using Python
-#####################################################
-
-This project can be found at the `GitHub <https://github.com/deepakramanath/Python-OpenWeather>`_ repository, including the `IPython <http://nbviewer.ipython.org/github/deepakramanath/Python-OpenWeather/blob/master/Python-OpenWeather.ipynb>`_ notebook.
+This project can be found at the `GitHub <https://github.com/deepakramanath/Python-OpenWeather>`_ repository, including the `IPython <http://nbviewer.ipython.org/github/deepakramanath
+/Python-OpenWeather/blob/master/Python-OpenWeather.ipynb>`_ notebook.
 
 Introduction
 ============
