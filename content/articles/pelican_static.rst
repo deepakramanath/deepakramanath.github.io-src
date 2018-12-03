@@ -15,6 +15,7 @@ Introduction
 ============
 In the world of static web or site generators, `jekyll <https://jekyllrb.com/>`_ and `Hugo <https://gohugo.io/>`_ are well know and is an obvious choice for many web developers who are into blogging. **Jekyll** is developed using `Ruby <https://www.ruby-lang.org/en/>`_ while **Hugo** is developed using `Go <https://golang.org/>`_ and both are open source programming languages. However, `Pelican <http://docs.getpelican.com/en/stable/index.html>`_ is relatively new and is gaining popularity due to the fact that it is developed using `Python <https://www.python.org/>`_. There are several features within **Pelican**, most notable is `jinja2 <http://jinja.pocoo.org/>`_ templating for theme creation. I will allow you to go through other features of **Pelican**.
 
+
 Installation
 ============
 
@@ -35,7 +36,7 @@ It is assumed that a Linux distribution will be used here and therefore all inst
    https://github.com/deepakramanath/pelican-site.github.io
    https://github.com/deepakramanath/pelican-site-src
 
-Once the above repositories are created on **GitHub**, let us clone the `pelican-site-src` repository into our project directory, which would be `**pelican-project**`
+Once the above repositories are created on **GitHub**, let us clone the `pelican-site-src` repository into our project directory, which would be **pelican-project**
 
 .. code-block:: bash
 
@@ -186,7 +187,7 @@ Further, ensure that **`DELETE_OUTPUT_DIRECTORY = False`** is set in the **`publ
 .. code-block:: bash
 
    cd ~/pelican-project/output
-   git add --add
+   git add --all
    git commit -m "My fisrt post commit"
    git push -u origin master
    46 files changed, 1960 insertions(+)
@@ -209,7 +210,7 @@ Similarly, the entire root directory should be commited and pushed.
 .. code-block:: bash
 
    cd ~/pelican-project
-   git add --add
+   git add --all
    git commit -m "My fisrt source commit"
    git push -u origin master
    9 files changed, 245 insertions(+)
